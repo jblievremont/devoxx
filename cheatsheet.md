@@ -31,3 +31,21 @@ Here, the ``@Ignore``d test is righteously flagged - if it were enabled, the tes
 # Good for Java, how about other languages?
 
 Depending on the IDE, SonarLint can work on several languages.
+
+(!!!) Check which languages on which IDE
+
+
+Language Elements
+=================
+
+- Roadmaps on SQ, SC, SL
+- LTS features
+
+
+Caveats
+=======
+
+- Sync to local SQ for same rule set
+- Install plugins for Eclipse
+- SonarCloud must be up for demo ;)
+- Prepare backup demo on Next (risk is availability of PR as 1st class ctzn)
